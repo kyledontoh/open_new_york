@@ -10,6 +10,6 @@ order: 3
 
 We're in the news!
 
-## [Press releases](_sections/press_releases)
+## [Press releases](/open_new_york/_sections/press_releases)
 
 ## [Media coverage](_sections/media)
